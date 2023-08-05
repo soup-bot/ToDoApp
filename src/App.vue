@@ -178,8 +178,8 @@ textarea:focus, input:focus{
   border: none;
   flex-grow: 1;
   height: 40px;
-  font-size: 18px;
-  padding: 10px;
+  font-size: 15px;
+  padding: 15px;
   background-color: rgba(255, 255, 255, 0.166);
   backdrop-filter: none;
  
@@ -250,11 +250,12 @@ flex-direction: column;
   justify-content: flex-start;
   border-radius: 5%;
   border-radius: 30px;
-border-color: rgba(255, 255, 255, 0.122);
+border-color: rgba(255, 255, 255, 0.082);
 
 backdrop-filter: blur(12px) saturate(80%);
     -webkit-backdrop-filter: blur(16px) saturate(91%);
-    background-color: rgba(0, 0, 0, 0.389);
+    background-color: rgba(255, 255, 255, 0.132);
+  
    
     border-radius: 12px;
     box-shadow: 3px 3px 25px rgba(0, 0, 0, 0.21);
